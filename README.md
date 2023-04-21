@@ -1,1 +1,1 @@
-This is a demo Todo App 📝.
+This is a Todo App 📝.
